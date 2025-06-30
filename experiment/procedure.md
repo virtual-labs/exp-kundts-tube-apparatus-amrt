@@ -103,7 +103,7 @@
 <script>
   const currentUrl = window.location.href;
   const basePath = currentUrl.substring(0, currentUrl.lastIndexOf("/"));
-  const swfPath = basePath + "/simulation/flash/simulation/index.swf";
+  const swfPath = basePath + "/simulation/flash/animation/index.swf";
   document.getElementById("copyText").textContent = swfPath;
 
   function copyLink() {
