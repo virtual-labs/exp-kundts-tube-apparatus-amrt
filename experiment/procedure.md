@@ -122,7 +122,7 @@
   }
 </script>
 
-<h2>Instructions to run the Flash simulator on your system:</h2>
+<h2>Instructions to run the Flash animation on your system:</h2>
 
 <strong>▶ Windows system</strong><br>
 <strong>Step 1:</strong> Open Flash Player<br>
