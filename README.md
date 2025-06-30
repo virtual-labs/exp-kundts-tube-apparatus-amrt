@@ -4,11 +4,11 @@
 <b>Discipline | <b> Physical Sciences
 :--|:--|
 <b> Lab | <b> Harmonic Motion and Waves Virtual Lab
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> Kundt's Tube Experiment
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Kundt's tube is a device used to calculate the velocity of sound through a metal rod. Also the Young's modulus of the rod can be calculated.
 
 <b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
