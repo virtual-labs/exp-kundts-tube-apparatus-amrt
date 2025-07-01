@@ -57,6 +57,8 @@ A long glass tube, piston, metal rod, powdered cork, ruler, clamps and leather p
 
 <p><strong>Mean</strong> <em>l<sub>a</sub></em> = ……………. m</p>
 
+Use equation 3 to calculate $V_r$ and equation 5 to calculate $Y$. 
+
 <h3>Result:</h3>
 <ul>
   <li>The velocity of sound wave through the rod = ………………… m/s</li>
