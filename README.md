@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Physical Sciences
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Harmonic Motion and Waves Virtual Lab
+<b> Experiment|     <b> Kundt's Tube Experiment
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Kundt's tube is a device used to calculate the velocity of sound through a metal rod. Also the Young's modulus of the rod can be calculated.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  virtual_labs@am.amrita.edu
 <b> Department |  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | Amrita Vishwa Vidyapeetham | .
 2 | . | . | . | . | .

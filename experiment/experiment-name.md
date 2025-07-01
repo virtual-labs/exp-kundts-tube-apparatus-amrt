@@ -1,1 +1,1 @@
-## Experiment name
+## Kundt's Tube Apparatus
