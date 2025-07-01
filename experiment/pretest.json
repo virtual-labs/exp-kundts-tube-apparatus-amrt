@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Sound waves are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Transverse waves",
+        "b": "Longitudinal waves",
+        "c": "Electromagnetic waves",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Sound waves are not transverse in gases; they are longitudinal.",
+        "b": "Correct. In air and most media, sound waves are longitudinal.",
+        "c": "Incorrect. Electromagnetic waves do not require a medium.",
+        "d": "Incorrect. Option B is correct."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "For longitudinal waves, the particles in the medium",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Vibrate parallel to the direction of propagation of the wave",
+        "b": "Vibrate perpendicular to the direction of propagation of the wave",
+        "c": "Do not vibrate",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. This is the defining characteristic of longitudinal waves.",
+        "b": "This applies to transverse waves, not longitudinal.",
+        "c": "Incorrect. Particles do vibrate in longitudinal waves.",
+        "d": "Incorrect. Option A is correct."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
