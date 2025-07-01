@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Sound waves are",
+      "answers": {
+        "a": "Transverse waves",
+        "b": "Longitudinal waves",
+        "c": "Electromagnetic waves",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Sound waves are not transverse in gases; they are longitudinal.",
+        "b": "Correct. In air and most media, sound waves are longitudinal.",
+        "c": "Incorrect. Electromagnetic waves do not require a medium.",
+        "d": "Incorrect. Option B is correct."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For longitudinal waves, the particles in the medium",
+      "answers": {
+        "a": "Vibrate parallel to the direction of propagation of the wave",
+        "b": "Vibrate perpendicular to the direction of propagation of the wave",
+        "c": "Do not vibrate",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. This is the defining characteristic of longitudinal waves.",
+        "b": "This applies to transverse waves, not longitudinal.",
+        "c": "Incorrect. Particles do vibrate in longitudinal waves.",
+        "d": "Incorrect. Option A is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
