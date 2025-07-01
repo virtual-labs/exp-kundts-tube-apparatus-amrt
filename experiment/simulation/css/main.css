@@ -85,6 +85,27 @@ body {
   opacity: 1;
 }
 
+.atooltip {
+  position: absolute;
+  right: 0;
+  top: -30px;
+  background: #333;
+  color: #fff;
+  padding: 3px 8px;
+  font-size: 12px;
+  border-radius: 4px;
+  opacity: 0;
+  transform: translateY(5px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.atooltip.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 img {
   max-width: 100%;
   height: auto;
