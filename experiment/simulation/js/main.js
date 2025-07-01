@@ -19,6 +19,27 @@ function copyLink() {
   });
 }
 
+// Animation link copy functionality
+const acurrentUrl = window.location.href;
+const abasePath = acurrentUrl.substring(0, currentUrl.lastIndexOf("/"));
+const aswfPath = abasePath + "/flash/animation/index.swf";
+document.getElementById("animationCopyText").textContent = aswfPath;
+
+function animationCopyLink() {
+  const text = document.getElementById("animationCopyText").textContent;
+  const tooltip = document.getElementById("atooltip");
+
+  navigator.clipboard.writeText(text).then(() => {
+    // Show the tooltip
+    tooltip.classList.add("show");
+
+    // Hide after 1 second
+    setTimeout(() => {
+      tooltip.classList.remove("show");
+    }, 1000);
+  });
+}
+
 function toggleAccordion(header) {
   const item = header.parentElement;
   item.classList.toggle("active");
