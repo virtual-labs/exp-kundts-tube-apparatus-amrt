@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The speed of a wave through a metal rod depends on",
+      "answers": {
+        "a": "Density of the material of the rod",
+        "b": "Young’s modulus of the material of the rod",
+        "c": "Mass of the rod",
+        "d": "Both density and Young's modulus of the material of the rod"
+      },
+      "explanations": {
+        "a": "Partly correct, but not complete.",
+        "b": "Partly correct, but not complete.",
+        "c": "Incorrect. Speed is independent of total mass.",
+        "d": "Correct. v = √(Y/ρ)"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The standard unit of sound wave velocity",
+      "answers": {
+        "a": "m/s",
+        "b": "m/s²",
+        "c": "Hz",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Velocity is measured in meters per second.",
+        "b": "This is the unit of acceleration.",
+        "c": "This is the unit of frequency.",
+        "d": "Incorrect. Option A is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When a wave passes through a medium, its particles vibrate. How often does a particle vibrate per second is referred to as its",
+      "answers": {
+        "a": "Frequency",
+        "b": "Period",
+        "c": "Wavelength",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Frequency is the number of vibrations per second.",
+        "b": "Period is the time for one vibration, not how often.",
+        "c": "Wavelength is the spatial distance between wave points.",
+        "d": "Incorrect. Option A is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

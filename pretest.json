@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Sound waves are",
+      "answers": {
+        "a": "Transverse waves",
+        "b": "Longitudinal waves",
+        "c": "Electromagnetic waves",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Sound waves are not transverse in gases; they are longitudinal.",
+        "b": "Correct. In air and most media, sound waves are longitudinal.",
+        "c": "Incorrect. Electromagnetic waves do not require a medium.",
+        "d": "Incorrect. Option B is correct."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For longitudinal waves, the particles in the medium",
+      "answers": {
+        "a": "Vibrate parallel to the direction of propagation of the wave",
+        "b": "Vibrate perpendicular to the direction of propagation of the wave",
+        "c": "Do not vibrate",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. This is the defining characteristic of longitudinal waves.",
+        "b": "This applies to transverse waves, not longitudinal.",
+        "c": "Incorrect. Particles do vibrate in longitudinal waves.",
+        "d": "Incorrect. Option A is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The speed of a wave through a metal rod depends on",
+      "answers": {
+        "a": "Density of the material of the rod",
+        "b": "Young’s modulus of the material of the rod",
+        "c": "Mass of the rod",
+        "d": "Both density and Young's modulus of the material of the rod"
+      },
+      "explanations": {
+        "a": "Partly correct, but not complete.",
+        "b": "Partly correct, but not complete.",
+        "c": "Incorrect. Speed is independent of total mass.",
+        "d": "Correct. v = √(Y/ρ)"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The standard unit of sound wave velocity",
+      "answers": {
+        "a": "m/s",
+        "b": "m/s²",
+        "c": "Hz",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Velocity is measured in meters per second.",
+        "b": "This is the unit of acceleration.",
+        "c": "This is the unit of frequency.",
+        "d": "Incorrect. Option A is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When a wave passes through a medium, its particles vibrate. How often does a particle vibrate per second is referred to as its",
+      "answers": {
+        "a": "Frequency",
+        "b": "Period",
+        "c": "Wavelength",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Frequency is the number of vibrations per second.",
+        "b": "Period is the time for one vibration, not how often.",
+        "c": "Wavelength is the spatial distance between wave points.",
+        "d": "Incorrect. Option A is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
